@@ -5,8 +5,8 @@ Docker Image for WSO2 Application Server(AS).
 
 The dockerfile will:
 
-* Copy `AS 4.9.0 zip` to /otp from Packages directory.
-* Unzip the AS 4.9.0 ZIP.
+* Copy `AS 5.3.0 zip` to /otp from Packages directory.
+* Unzip the AS 5.3.0 ZIP.
 * Expose the container port `9444`.
 * Set the AS `wso2server.sh` start-up script as the container start-up command.
 
